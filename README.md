@@ -6,6 +6,7 @@ GIVEN a webpage meets accessibility standards
 
 WHEN I view the source code
 THEN I find semantic HTML elements
+added semantics
 
 
 WHEN I view the structure of the HTML elements
@@ -22,6 +23,7 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+changed title from website to Horiseon
 
 Scout fixes:
 Debugged Search Engine Optimization href in nav by adding missing code id="search-engine-optimization"
