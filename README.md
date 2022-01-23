@@ -45,6 +45,3 @@ The `alt` attribute was added to the hero image using information from [this thr
 [MIT license](./LICENSE)
 
 
-## Badges
-
-	/github/followers/:noreikam?label=Follow
